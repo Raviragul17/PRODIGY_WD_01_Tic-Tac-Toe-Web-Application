@@ -1,22 +1,17 @@
-## Tic Tac Toe Game
+# Tic Tac Toe Game
+
+## Project Overview
 
 A simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. Players can choose to play against another human or an AI opponent.
 
 ## Features
+1.**Game Modes:** Choose between playing with a friend or against an AI.
+2.**Responsive Design:** The game board adapts to different screen sizes for a seamless experience.
+3.**Interactive Gameplay:** Clickable game boxes that update with each player's move and highlight the winning combination.
+4.**Restart Functionality:** Restart the game at any time with a dedicated button.
+5.**Stylish UI:** Uses custom fonts and colors to enhance the visual appeal.
 
-- Play against another human or AI
-- Simple and intuitive UI
-- Responsive design
-
-## How to Play
-
-1. Open the `index.html` file in your web browser.
-2. Click on "Play against Human" to play with another person or "Play against AI" to play against the computer.
-3. The first player will be `Player X` and the second player will be `Player O`.
-4. Click on any empty cell to make a move.
-5. The game will display the result (Win/Draw) at the end.
-
-## Files
+## Technologies Used
 
 - `index.html`: The main HTML file for the game.
 - `tic.css`: The CSS file for styling the game.
