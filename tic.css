@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+#main {
+    margin-top: 50px;
+}
+
+.ui {
+    display: inline-block;
+}
+
+.row {
+    display: flex;
+}
+
+.cell {
+    width: 60px;
+    height: 60px;
+    font-size: 24px;
+    text-align: center;
+    margin: 5px;
+    cursor: pointer;
+}
